@@ -1,6 +1,6 @@
 # PSO-Optimised Neural Network
 
-Group coursework for F20BC Biologically Inspired Computation — Heriot-Watt University (2024–25).  
+Group coursework for F20BC Biologically Inspired Computation — Heriot-Watt University.
 2-person team. **My contribution: the PSO algorithm (`Particle_Swarm_Optimisation.py`) and integration of both components (`Combined.py`). Partner implemented the ANN (`Artificial_Neural_Network.py`).**
 
 Trains a feedforward neural network using Particle Swarm Optimisation as an alternative to gradient descent, applied to the UCI Concrete Compressive Strength regression dataset.
